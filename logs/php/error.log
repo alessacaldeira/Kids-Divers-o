@@ -1,0 +1,22 @@
+[14-Dec-2022 17:50:22 UTC] PHP Warning:  Undefined array key "post_type" in C:\Users\Instrutor\Local Sites\kids-diverso\app\public\wp-content\plugins\woocommerce\includes\tracks\events\class-wc-products-tracking.php on line 320
+[15-Dec-2022 17:35:14 UTC] PHP Warning:  Undefined array key "post_type" in C:\Users\Instrutor\Local Sites\kids-diverso\app\public\wp-content\plugins\woocommerce\includes\tracks\events\class-wc-products-tracking.php on line 320
+[15-Dec-2022 18:03:06 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[15-Dec-2022 18:03:06 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[15-Dec-2022 18:03:06 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[15-Dec-2022 18:03:06 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[15-Dec-2022 18:03:06 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[15-Dec-2022 18:03:06 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[15-Dec-2022 18:05:11 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[15-Dec-2022 18:05:11 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[15-Dec-2022 18:05:11 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[15-Dec-2022 18:05:11 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[15-Dec-2022 18:05:11 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[15-Dec-2022 18:05:11 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[15-Dec-2022 18:14:07 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[15-Dec-2022 18:14:07 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[15-Dec-2022 18:14:07 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[15-Dec-2022 18:14:07 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[15-Dec-2022 19:01:23 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[15-Dec-2022 19:01:23 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[15-Dec-2022 19:01:23 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[15-Dec-2022 19:01:23 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
